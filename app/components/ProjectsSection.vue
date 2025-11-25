@@ -36,7 +36,7 @@
               target="_blank"
               rel="noopener noreferrer"
             >
-              <span class="material-symbols-outlined text-lg">link</span> Live Demo
+              <span class="material-symbols-outlined text-lg">Live Demo</span>
             </a>
           </div>
         </div>

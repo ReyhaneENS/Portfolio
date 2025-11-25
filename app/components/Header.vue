@@ -1,7 +1,7 @@
 <template>
   <header
     ref="headerRef"
-    class="sticky top-5 z-50 flex items-center justify-between whitespace-nowrap border border-solid border-[#292348]/50 bg-(--color-background-dark)/80 px-10 py-3 rounded-xl backdrop-blur-md transform opacity-0 -translate-y-6 transition-all duration-700 ease-out"
+    class="sticky mx-3 top-5 z-50 flex items-center justify-between whitespace-nowrap border border-solid border-[#292348]/50 bg-(--color-background-dark)/80 px-10 py-3 rounded-xl backdrop-blur-md transform opacity-0 -translate-y-6 transition-all duration-700 ease-out"
   >
     <div class="flex items-center gap-4 text-white">
       <div class="size-6 text-(--primary) transition-transform duration-300 hover:scale-110">
